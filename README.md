@@ -2,10 +2,6 @@
 
 ## Áreas de Estudo
 
-## Áreas de Estudo
-
-## Áreas de Estudo
-
 1. [Administrar identidade](https://github.com/DurezahGeek/AZ-104_Administracao-de-Identidade/blob/main/README.md)
 2. [Administrar governança e conformidade](#)
 3. [Administrar recursos do Azure](#)
