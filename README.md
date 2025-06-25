@@ -2,7 +2,7 @@
 
 ## Áreas de Estudo
 
-1. [Administrar identidade](https://github.com/DurezahGeek/AZ-104_Administracao-de-Identidade/blob/main/README.md)
+1. [Administrar identidade](https://github.com/DurezahGeek/AZ-104_Administracao-de-Identidade/tree/main)
 2. [Administrar governança e conformidade](https://github.com/DurezahGeek/AZ-104_Administrar_Governan-a_e_Conformidade_no_Azure)
 3. [Administrar recursos do Azure](https://github.com/DurezahGeek/Administracao-dos-Recursos-do-Azure)
 4. [Administrar rede virtual](#)
