@@ -6,7 +6,7 @@
 2. [Administrar governança e conformidade](https://github.com/DurezahGeek/AZ-104_Administrar_Governan-a_e_Conformidade_no_Azure)
 3. [Administrar recursos do Azure](https://github.com/DurezahGeek/Administracao-dos-Recursos-do-Azure)
 4. [Administrar rede virtual](#)
-5. [Administrar conectividade entre sites](#)
+5. [Administrar conectividade entre sites](https://github.com/DurezahGeek/Administrar-conectividade-entre-sites/tree/main)
 6. [Administrar gerenciamento de tráfego de rede](#)
 7. [Administrar o armazenamento do Azure](#)
 8. [Administrar máquinas virtuais](#)
