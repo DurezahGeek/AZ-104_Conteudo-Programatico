@@ -7,7 +7,7 @@
 3. [Administrar recursos do Azure](https://github.com/DurezahGeek/Administracao-dos-Recursos-do-Azure)
 4. [Administrar rede virtual](https://github.com/DurezahGeek/az-104_Administrar-rede-virtual)
 5. [Administrar conectividade entre sites](https://github.com/DurezahGeek/Administrar-conectividade-entre-sites/tree/main)
-6. [Administrar gerenciamento de tráfego de rede](#)
+6. [Administrar gerenciamento de tráfego de rede](https://github.com/DurezahGeek/Az-104_Administrar-gerenciamento-de-trafego-de-rede)
 7. [Administrar o armazenamento do Azure](#)
 8. [Administrar máquinas virtuais](#)
 9. [Administrar soluções de computação PaaS](#)
