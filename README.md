@@ -12,7 +12,7 @@
 8. [Administrar máquinas virtuais](https://github.com/DurezahGeek/az-104_Administrar-maquinas-virtuais)
 9. [Administrar soluções de computação PaaS](https://github.com/DurezahGeek/az-104_Administrar-solucoes-de-computaao-PaaS)
 10. [Administrar proteção de dados](https://github.com/DurezahGeek/AZ-104_Administrar-protecao-de-dados)
-11. [Administrar monitoramento](#)
+11. [Administrar monitoramento](https://github.com/DurezahGeek/Az-104_Administrar-monitoramento)
 
 ---
 
