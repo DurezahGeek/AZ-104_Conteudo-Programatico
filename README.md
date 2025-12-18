@@ -10,7 +10,7 @@
 6. [Administrar gerenciamento de tráfego de rede](https://github.com/DurezahGeek/Az-104_Administrar-gerenciamento-de-trafego-de-rede)
 7. [Administrar o armazenamento do Azure](https://github.com/DurezahGeek/az-104_Administrar-o-armazenamento-do-Azure)
 8. [Administrar máquinas virtuais](https://github.com/DurezahGeek/az-104_Administrar-maquinas-virtuais)
-9. [Administrar soluções de computação PaaS](#)
+9. [Administrar soluções de computação PaaS](https://github.com/DurezahGeek/az-104_Administrar-solucoes-de-computaao-PaaS)
 10. [Administrar proteção de dados](#)
 11. [Administrar monitoramento](#)
 
